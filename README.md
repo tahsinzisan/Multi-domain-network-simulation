@@ -107,3 +107,10 @@ The enterprise LAN under AS100 is divided as follows:
 - ✅ Scalable **OSPF multi-area design**
 - ✅ Realistic enterprise **VLAN segmentation**
 - ✅ Cross-AS prefix distribution and manipulation
+- 
+
+## Requirements
+- EVE-NG
+- Cisco iol switch images
+- Cisco dynamips router images
+- pyyaml installed
